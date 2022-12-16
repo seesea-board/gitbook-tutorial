@@ -1,3 +1,6 @@
+- 在线阅读：https://seesea-board.github.io/gitbook-tutorial
+
+
 # Gitbook 使用教程
 使用 Git 和 Markdown 制作精美在线电子书。
 
